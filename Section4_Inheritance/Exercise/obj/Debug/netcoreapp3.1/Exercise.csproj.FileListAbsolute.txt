@@ -1,0 +1,13 @@
+C:\Users\Zachm\Desktop\UdemyCSharpIntermediate\Section4_Inheritance\Exercise\obj\Debug\netcoreapp3.1\Exercise.csprojAssemblyReference.cache
+C:\Users\Zachm\Desktop\UdemyCSharpIntermediate\Section4_Inheritance\Exercise\obj\Debug\netcoreapp3.1\Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Zachm\Desktop\UdemyCSharpIntermediate\Section4_Inheritance\Exercise\obj\Debug\netcoreapp3.1\Exercise.AssemblyInfoInputs.cache
+C:\Users\Zachm\Desktop\UdemyCSharpIntermediate\Section4_Inheritance\Exercise\obj\Debug\netcoreapp3.1\Exercise.AssemblyInfo.cs
+C:\Users\Zachm\Desktop\UdemyCSharpIntermediate\Section4_Inheritance\Exercise\bin\Debug\netcoreapp3.1\Exercise.exe
+C:\Users\Zachm\Desktop\UdemyCSharpIntermediate\Section4_Inheritance\Exercise\bin\Debug\netcoreapp3.1\Exercise.deps.json
+C:\Users\Zachm\Desktop\UdemyCSharpIntermediate\Section4_Inheritance\Exercise\bin\Debug\netcoreapp3.1\Exercise.runtimeconfig.json
+C:\Users\Zachm\Desktop\UdemyCSharpIntermediate\Section4_Inheritance\Exercise\bin\Debug\netcoreapp3.1\Exercise.runtimeconfig.dev.json
+C:\Users\Zachm\Desktop\UdemyCSharpIntermediate\Section4_Inheritance\Exercise\bin\Debug\netcoreapp3.1\Exercise.dll
+C:\Users\Zachm\Desktop\UdemyCSharpIntermediate\Section4_Inheritance\Exercise\bin\Debug\netcoreapp3.1\Exercise.pdb
+C:\Users\Zachm\Desktop\UdemyCSharpIntermediate\Section4_Inheritance\Exercise\obj\Debug\netcoreapp3.1\Exercise.dll
+C:\Users\Zachm\Desktop\UdemyCSharpIntermediate\Section4_Inheritance\Exercise\obj\Debug\netcoreapp3.1\Exercise.pdb
+C:\Users\Zachm\Desktop\UdemyCSharpIntermediate\Section4_Inheritance\Exercise\obj\Debug\netcoreapp3.1\Exercise.genruntimeconfig.cache
